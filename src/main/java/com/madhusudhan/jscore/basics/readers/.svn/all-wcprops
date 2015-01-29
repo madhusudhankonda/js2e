@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/584126/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/basics/readers
+END
+FileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/584126/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/basics/readers/FileReader.java
+END
+DatabaseReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/584126/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/basics/readers/DatabaseReader.java
+END
+IReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/584126/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/basics/readers/IReader.java
+END
+FtpReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/584126/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/basics/readers/FtpReader.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/602808/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/data
+END
+Movie.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/602808/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/data/Movie.java
+END
+MovieDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/589037/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/data/MovieDAO.java
+END
+IMovieDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/589029/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/data/IMovieDAO.java
+END
+MovieRowMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/589414/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/data/MovieRowMapper.java
+END
+MovieClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/589029/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/data/MovieClient.java
+END

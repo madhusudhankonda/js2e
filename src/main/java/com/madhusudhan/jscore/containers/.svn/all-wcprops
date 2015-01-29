@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/586443/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers
+END
+Employee.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/584942/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/Employee.java
+END
+ApplicationContextClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/584942/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/ApplicationContextClient.java
+END
+ConfigurableApplicationContextClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/585789/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/ConfigurableApplicationContextClient.java
+END
+BeanFactoryClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/584132/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/BeanFactoryClient.java
+END

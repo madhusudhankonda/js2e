@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/586223/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/event/publish
+END
+HugeFileEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/586223/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/event/publish/HugeFileEventListener.java
+END
+HugeFileEventPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/586223/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/event/publish/HugeFileEventPublisher.java
+END
+HugeFileEventClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/586223/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/event/publish/HugeFileEventClient.java
+END
+HugeFileEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/586223/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/event/publish/HugeFileEvent.java
+END

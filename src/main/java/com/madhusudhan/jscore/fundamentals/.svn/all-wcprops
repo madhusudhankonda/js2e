@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/589547/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/fundamentals
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/584126/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/fundamentals/Address.java
+END
+PersonClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/589538/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/fundamentals/PersonClient.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/584126/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/fundamentals/Person.java
+END
+TrainManClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/584126/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/fundamentals/TrainManClient.java
+END
+TrainMan.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/584126/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/fundamentals/TrainMan.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/585789/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/postprocessor
+END
+EmailSignaturePostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/585789/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/postprocessor/EmailSignaturePostProcessor.java
+END
+Email.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/585789/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/postprocessor/Email.java
+END
+PostProcessComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/585789/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/postprocessor/PostProcessComponent.java
+END
+DefaultComponentNamePostProcessorClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/584942/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/postprocessor/DefaultComponentNamePostProcessorClient.java
+END
+DefaultComponentNamePostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/585789/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/postprocessor/DefaultComponentNamePostProcessor.java
+END
+EmailSignaturePostProcessorClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/585789/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/postprocessor/EmailSignaturePostProcessorClient.java
+END

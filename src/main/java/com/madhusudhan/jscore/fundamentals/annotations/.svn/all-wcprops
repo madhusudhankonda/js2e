@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/589538/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/fundamentals/annotations
+END
+ReservationClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/589414/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/fundamentals/annotations/ReservationClient.java
+END
+ReservationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/589538/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/fundamentals/annotations/ReservationService.java
+END
+ReservationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/589414/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/fundamentals/annotations/ReservationManager.java
+END

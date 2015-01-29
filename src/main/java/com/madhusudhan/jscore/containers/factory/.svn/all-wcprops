@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/584942/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/factory
+END
+EmployeeCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/584942/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/factory/EmployeeCreator.java
+END
+EmployeeFactoryClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/584942/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/factory/EmployeeFactoryClient.java
+END
+EmployeeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/584942/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/factory/EmployeeFactory.java
+END
+EmployeeCreatorClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/584942/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/factory/EmployeeCreatorClient.java
+END

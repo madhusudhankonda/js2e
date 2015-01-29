@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+       xsi:schemaLocation="http://www.springframework.org/schema/beans 
+                http://www.springframework.org/schema/beans/spring-beans.xsd">
+    
+    <bean name="readerService" class="com.madhusudhan.jscore.basics.service.ReaderService">
+      <constructor-arg ref="reader" />
+    </bean>
+    
+    <bean name="reader" class="com.madhusudhan.jscore.basics.readers.FileReader">
+      <constructor-arg value="src/main/resources/basics/basics-trades-data.txt" />
+      <property name="componentName" value="TradeFileReader"/>
+    </bean>
+	
+    <!-- *** DBReader *** -->
+    <!-- 
+   	<bean name="reader" class="com.madhusudhan.jscore.basics.readers.DatabaseReader">
+      <property name="dataSource" ref="dataSource" />
+   	</bean>
+   	-->
+    <!-- Datasource that DBReader depends -->
+    <!-- 
+    <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
+      <property name="driverClassName" value="oracle.jdbc.driver.OracleDriver"/>
+      <property name="url" value="jdbc:oracle:thin:@host:port:db"/>
+      <property name="username" value="your_jdbc_username"/>
+      <property name="password" value="your_jdbc_password"/>
+    </bean>
+    -->
+ 	
+    <!-- *** FTP Reader *** -->
+    <!-- 
+    <bean name="reader" class="com.madhusudhan.jscore.basics.readers.FtpReader">
+      <property name="ftpHost" value="oreilly.com" />
+      <property name="ftpPort" value="10009" />
+    </bean>
+    -->
+	
+</beans>

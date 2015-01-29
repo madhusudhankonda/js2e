@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/586443/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/autowire
+END
+TradeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/586443/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/autowire/TradeTransformer.java
+END
+TradeReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/586443/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/autowire/TradeReceiver.java
+END
+AutoWireByNameClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/586443/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/autowire/AutoWireByNameClient.java
+END
+TradePersistor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/586443/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/containers/autowire/TradePersistor.java
+END

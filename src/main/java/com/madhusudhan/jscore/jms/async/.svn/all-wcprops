@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/588076/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/jms/async
+END
+BookOrderMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/587800/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/jms/async/BookOrderMessageListener.java
+END
+BookOrderListenerClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/587800/internal/books/9781449306403/current/src/main/java/com/madhusudhan/jscore/jms/async/BookOrderListenerClient.java
+END
